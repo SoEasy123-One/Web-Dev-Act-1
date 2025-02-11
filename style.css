@@ -1,0 +1,58 @@
+.img {
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+    border-radius: 250px;
+    vertical-align: middle;
+    margin-left: 40px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+
+}
+.img1{
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+    border-radius: 250px;
+    vertical-align: middle;
+    margin-left: 300px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+
+}
+
+.img2{
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+    border-radius: 250px;
+    vertical-align: middle;
+    margin-left: 360px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+
+}
+body {
+    background: url(1600w-vyLmDobNXOc.webp);
+    background-repeat: none;
+}
+
+.hahaha {
+    font-size: 50px;
+    border: 2px solid red;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+}
+.pogi
+{
+    font-size: 30px;
+    margin-left: 20px;
+   color: rgb(219, 51, 197);
+   font-family: 'Times New Roman', Times, serif;
+
+}
